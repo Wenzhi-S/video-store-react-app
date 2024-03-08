@@ -1,0 +1,160 @@
+{
+    "movies": [
+      {
+        "id": 1,
+        "title": "Iron Man",
+        "year": 2008,
+        "actors": ["Robert Downey Jr.", "Gwyneth Paltrow", "Jeff Bridges"],
+        "featured": true,
+        "description": "After being held captive, Tony Stark creates a unique weaponized suit of armor to fight evil.",
+        "poster": "https://cdn.marvel.com/content/1x/ironman_lob_crd_01_3.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Thor",
+        "year": 2011,
+        "actors": ["Chris Hemsworth", "Anthony Hopkins", "Natalie Portman"],
+        "featured": false,
+        "description": "The god Thor is cast out of Asgard to live amongst humans, becoming one of their finest defenders.",
+        "poster": "https://cdn.marvel.com/content/1x/thor_lob_crd_01.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Captain America: The First Avenger",
+        "year": 2011,
+        "actors": ["Chris Evans", "Hugo Weaving", "Samuel L. Jackson"],
+        "featured": true,
+        "description": "Steve Rogers transforms into Captain America and attempts to take down a warmonger and a terrorist organization.",
+        "poster": "https://cdn.marvel.com/content/1x/captainamerica_lob_crd_01.jpg"
+      },
+      {
+        "id": 4,
+        "title": "The Avengers",
+        "year": 2012,
+        "actors": ["Robert Downey Jr.", "Chris Evans", "Scarlett Johansson"],
+        "featured": true,
+        "description": "Earth's mightiest heroes come together to stop Loki and his alien army from enslaving humanity.",
+        "poster": "https://cdn.marvel.com/content/1x/theavengers_lob_crd_03.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Guardians of the Galaxy",
+        "year": 2014,
+        "actors": ["Chris Pratt", "Vin Diesel", "Bradley Cooper"],
+        "featured": false,
+        "description": "A group of intergalactic criminals stop a fanatical warrior from purging the universe.",
+        "poster": "https://cdn.marvel.com/content/1x/guardiansofthegalaxy_lob_crd_03.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Ant-Man",
+        "year": 2015,
+        "actors": ["Paul Rudd", "Michael Douglas", "Evangeline Lilly"],
+        "featured": false,
+        "description": "Armed with a super-suit, Scott Lang must embrace his inner hero and help his mentor, Dr. Hank Pym, plan a heist.",
+        "poster": "https://cdn.marvel.com/content/1x/ant-man_lob_crd_01_8.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Doctor Strange",
+        "year": 2016,
+        "actors": ["Benedict Cumberbatch", "Chiwetel Ejiofor", "Rachel McAdams"],
+        "featured": false,
+        "description": "Dr. Stephen Strange's life changes after a car accident robs him of the use of his hands.",
+        "poster": "https://cdn.marvel.com/content/1x/doctorstrange_lob_crd_01_6.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Captain America: Civil War",
+        "year": 2016,
+        "actors": ["Chris Evans", "Robert Downey Jr.", "Scarlett Johansson"],
+        "featured": true,
+        "description": "Political involvement in the Avengers' affairs causes a rift between Captain America and Iron Man.",
+        "poster": "https://cdn.marvel.com/content/1x/captainamericacivilwar_lob_crd_01_9.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Spider-Man: Homecoming",
+        "year": 2017,
+        "actors": ["Tom Holland", "Michael Keaton", "Robert Downey Jr."],
+        "featured": false,
+        "description": "Peter Parker balances his life as an ordinary high school student with his superhero alter-ego Spider-Man.",
+        "poster": "https://cdn.marvel.com/content/1x/spider-manhomecoming_lob_crd_02.jpg"
+      },
+      {
+        "id": 10,
+        "title": "Black Panther",
+        "year": 2018,
+        "actors": ["Chadwick Boseman", "Michael B. Jordan", "Lupita Nyong'o"],
+        "featured": true,
+        "description": "T'Challa returns home to the African nation of Wakanda to take his rightful place as king.",
+        "poster": "https://cdn.marvel.com/content/1x/blackpanther_lob_crd_01_4.jpg"
+      },
+      {
+        "id": 11,
+        "title": "Thor: Ragnarok",
+        "year": 2017,
+        "actors": ["Chris Hemsworth", "Tom Hiddleston", "Cate Blanchett"],
+        "featured": false,
+        "description": "Imprisoned on the other side of the universe, Thor finds himself in a race against time to get back to Asgard to stop Ragnarok.",
+        "poster": "https://cdn.marvel.com/content/1x/thorragnarok_lob_crd_03.jpg"
+      },
+      {
+        "id": 12,
+        "title": "Avengers: Infinity War",
+        "year": 2018,
+        "actors": ["Robert Downey Jr.", "Chris Hemsworth", "Mark Ruffalo"],
+        "featured": true,
+        "description": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos.",
+        "poster": "https://cdn.marvel.com/content/1x/avengersinfinitywar_lob_crd_02_1.jpg"
+      }
+    ],
+    "tvShows": [
+        {
+          "id": 1,
+          "title": "WandaVision",
+          "year": "2021",
+          "actors": ["Elizabeth Olsen", "Paul Bettany", "Kat Dennings", "Kathryn Hahn", "Randall Park", "Teyonah Parris"],
+          "featured": true,
+          "description": "The series is a blend of classic television and the Marvel Cinematic Universe in which Wanda Maximoff and Vision—two super-powered beings living idealized suburban lives—begin to suspect that everything is not as it seems.",
+          "poster": "https://cdn.marvel.com/content/1x/wandavision_lob_crd_06.jpg"
+        },
+        {
+          "id": 2,
+          "title": "The Falcon and The Winter Soldier",
+          "year": "2021",
+          "actors": ["Anthony Mackie", "Sebastian Stan", "Daniel Brühl", "Emily VanCamp", "Wyatt Russell"],
+          "featured": true,
+          "description": "Following the events of “Avengers: Endgame,” Sam Wilson/Falcon (Anthony Mackie) and Bucky Barnes/Winter Soldier (Sebastian Stan) team up in a global adventure that tests their abilities—and their patience.",
+          "poster": "https://cdn.marvel.com/content/1x/falcws_lob_crd_03.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Hawkeye",
+            "year": "2021",
+            "actors": ["Jeremy Renner", "Hailee Steinfield", "Vera Farmiga", "Fra Fee", "Tony Dalton", "Zahn McClarnon", "Brian d’Arcy James", "Alaqua Cox"],
+            "featured": true,
+            "description": "Marvel Studios’ “Hawkeye” stars Jeremy Renner as Hawkeye, who teams up with another well-known archer from the Marvel comics, Kate Bishop, played by Hailee Steinfeld.",
+            "poster": "https://cdn.marvel.com/content/1x/hawkeye_lob_crd_04.jpg"
+          },
+          {
+            "id": 4,
+            "title": "Secret Invasion",
+            "year": "2023",
+            "actors": ["Samuel L. Jackson", "Ben Mendelsohn", "Cobie Smulders", "Martin Freeman", "Kingsley Ben-Adir", "Charlayne Woodard", "Killian Scott"],
+            "featured": true,
+            "description": "In Secret Invasion, set in the present-day MCU, Fury learns of a clandestine invasion of Earth by a faction of shapeshifting Skrulls. Fury joins his allies, including Everett Ross, Maria Hill, and the Skrull Talos, who has made a life for himself on Earth.",
+            "poster": "https://cdn.marvel.com/content/1x/secretinvasion_lob_crd_04.jpg"
+          },
+          {
+            "id": 5,
+            "title": "The Punisher",
+            "year": "2019",
+            "actors": ["Jon Bernthal", "Giorgia Whigham"],
+            "featured": true,
+            "description": "Former marine-turned-vigilante Frank Castle (Jon Bernthal) has been living a quiet life on the road until he suddenly becomes embroiled in the attempted murder of a young girl (Giorgia Whigham).",
+            "poster": "https://cdn.marvel.com/content/1x/thepunishers2_lob_crd_04.jpg"
+          }
+      ]
+  }
+  

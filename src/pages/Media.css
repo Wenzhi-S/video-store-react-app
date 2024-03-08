@@ -1,0 +1,36 @@
+.media-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 20px;
+  padding: 20px;
+  margin-bottom: 5%;
+}
+
+.media-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #000;
+  background-color: #f0f0f0;
+  border-radius: 10px;
+  overflow: hidden;
+  padding: 15px;
+  text-decoration: none;
+}
+
+.media-card img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 8px;
+}
+
+.media-info {
+  text-align: center;
+}
+
+@media (max-width: 510px) {
+  .media-container {
+    margin-bottom: 20%;
+  }
+}
