@@ -1,0 +1,10 @@
+.hero-section {
+  max-width: 100%;
+  max-width: 980px;
+  margin: auto;
+}
+
+.hero-section img {
+  width: 100%;
+  height: auto;
+}
