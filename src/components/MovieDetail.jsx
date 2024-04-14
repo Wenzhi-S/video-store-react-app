@@ -11,7 +11,7 @@ function MovieDetail() {
     fetch(`http://localhost:8080/mediaItems/${id}`)
       .then((response) => {
         if (!response.ok) {
-          throw new Error('Failed to fetch movie details');
+          throw new Error("Failed to fetch movie details");
         }
         return response.json();
       })
@@ -34,8 +34,12 @@ function MovieDetail() {
           <strong>Description:</strong> {movie.synopsis}
         </p>
         <div className="media-actions">
-          <Link to="#" className="media-order">Rent: ${movie.rentPrice}</Link>
-          <Link to="#" className="media-order">Buy ${movie.purchasePrice}</Link>
+          <Link to="#" className="media-order">
+            Rent: ${movie.rentPrice}
+          </Link>
+          <Link to="#" className="media-order">
+            Buy ${movie.purchasePrice}
+          </Link>
         </div>
       </div>
       <div className="media-poster">
